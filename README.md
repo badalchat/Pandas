@@ -12,5 +12,6 @@
 2. DataFrame - it's a tabular spreadsheet like structure representing rows each of which contains one or multiple columns
 
  ```A one-dimensional array(labeled) capable of holding any type of data- Series```
+ 
  ```A two-dimensionl data(labeled) structure with columns of potentially different types of data- DataFrame```
 
